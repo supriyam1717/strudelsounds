@@ -2,5 +2,6 @@
 {
   "_base": "https://raw.githubusercontent.com/supriyam1717/strudelsounds/main/",
   "psykick": "kicks/psy/psykick1.wav",
-  "test":"test.mp3"
+  "test":"test.mp3",
+  "hartechno1":"kicks/hardTechno/hardb1.mp3"
 }
